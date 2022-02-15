@@ -1,0 +1,24 @@
+h1, h2 {
+  text-align: center;
+  color: red;
+  font-family: Shizuru, serif;
+}
+body {
+  background-image: url('https://www.bearsurfboards.eu/wp-content/uploads/2020/11/hawaii-surfing-sport-pacific-ocean-usa-HAWAIISURF0519.jpg');
+  background-size: cover;
+}
+img {
+  height: 200px;
+  width: 200px;
+}
+div.profile {
+  width: 25%;
+  text-align: center;
+}
+table {
+  width: 100%;
+}
+td {
+  width: 25%;
+  text-align: center;
+}
